@@ -1,45 +1,38 @@
-Planet Simulation
+# Planet Simulation
 
 🌍🪐✨ A real-time planetary motion simulation using Python and Pygame.
 
-Features
+## Features
+- Simulates planetary motion using Newtonian physics.
+- Interactive display with planet names appearing on hover.
+- Pause and resume functionality.
+- Realistic orbital mechanics and gravitational interactions.
 
-Simulates planetary motion using Newtonian physics.
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/planet-simulation.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd planet-simulation
+   ```
+3. Install dependencies:
+   ```sh
+   pip install pygame
+   ```
 
-Interactive display with planet names appearing on hover.
-
-Pause and resume functionality.
-
-Realistic orbital mechanics and gravitational interactions.
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/vallz0/planet-simulation.git
-
-Navigate to the project directory:
-
-cd planet-simulation
-
-Install dependencies:
-
-pip install pygame
-
-Usage
-
+## Usage
 Run the simulation with:
-
+```sh
 python main.py
+```
 
-Dependencies
+## Dependencies
+- Python 3+
+- Pygame
 
-Python 3+
-
-Pygame
-
-License
-
+## License
 This project is licensed under the MIT License.
 
 🚀 Happy coding!
