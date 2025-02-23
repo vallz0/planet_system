@@ -29,7 +29,7 @@ python main.py
 ```
 
 ## Dependencies
-- Python 3.x+
+- Python 3.7+
 - Pygame
 
 ## License
