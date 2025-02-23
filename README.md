@@ -11,7 +11,7 @@
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/planet-simulation.git
+   git clone https://github.com/vallz0/planet-simulation.git
    ```
 2. Navigate to the project directory:
    ```sh
